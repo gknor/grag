@@ -1,5 +1,6 @@
-# grag
-Guarded Retrieval Augmented Generation example
+# GRAG
+**G**uarded **R**etrieval **A**ugmented **G**eneration.
+This repository contains a presentation from [DSS2023](https://dssconf.pl/user.html#!/lecture/DSS23-68da/rate) and a demo demonstrating the idea of GRAG.
 
 **Abstract**
 
